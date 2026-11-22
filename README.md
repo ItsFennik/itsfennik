@@ -1,4 +1,3 @@
 ## Hi there 
 
-https://ghstats.dev/api/card?username=itsfennik&theme=kanagawa
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=itsfennik&theme=kanagawa)
